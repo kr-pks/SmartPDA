@@ -4,6 +4,10 @@ tags: ['PDA']
 ---
 
 
+https://github.com/kr-pks/SmartPDA/assets/49233309/25995286-69b6-46d4-8d4c-874778ad137c
+
+
+
 # Your own Assistant 🔥
 
 This folder contains a simple Chainlit application that integrates with the Huggingface declare-lab/flan-alpaca-large model to create an interactive chat experience .
